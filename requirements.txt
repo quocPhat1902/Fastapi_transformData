@@ -1,0 +1,22 @@
+fastapi>=0.68.0,<0.69.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+PyJWT==1.7.1
+requests
+fastapi_versioning
+facebook_business
+PyMySQL
+google.cloud.storage
+pandas
+pandavro
+mlxtend
+# openpyxl>=3.0.*
+pycel
+xlwings
+xlcalculator
+unidecode
+jsonpath_rw
+Polars
+python-multipart
+google.cloud.bigquery
+google-auth
